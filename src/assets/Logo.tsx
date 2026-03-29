@@ -1,11 +1,3 @@
-/**
- * @copyright 2025 codewithsadee
- * @license Apache-2.0
- */
-
-/**
- * Types
- */
 type Props = {
   variant?: 'default' | 'icon';
   size?: number;
